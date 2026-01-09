@@ -3,6 +3,9 @@
 /storage
 /bootstrap/cache
 /public/build
+/database.sql
+/database-code.sql
+/database-write.sql
 /public/storage
 /storage/*.key
 /vendor
